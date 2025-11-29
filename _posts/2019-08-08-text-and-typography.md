@@ -14,7 +14,7 @@ image:
   alt: Responsive rendering of Chirpy theme on multiple devices.
 ---
 
-## Headings
+## Headings 
 
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
